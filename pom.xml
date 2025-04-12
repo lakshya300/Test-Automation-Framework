@@ -30,7 +30,7 @@
 					</suiteXmlFiles>
 					<systemPropertyVariables>
 						<browser>chrome</browser>
-						<isLambdaTest>false</isLambdaTest>
+						<isLambdaTest>true</isLambdaTest>
 						<isHeadless>false</isHeadless>
 					</systemPropertyVariables>
 				</configuration>
